@@ -1,4 +1,6 @@
-### Hi there 👋
+### 🌱 I’m AI & Data Trainee at BeCode.org
+📫 How to reach me: [LinkedIn][https://www.linkedin.com/in/danil-zhuravlov-a36a632a4/]
+
 
 <!--
 **Danil-Zhuravlov/Danil-Zhuravlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
