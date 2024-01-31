@@ -1,5 +1,5 @@
 ### 🌱 I’m AI & Data Trainee at BeCode.org
-📫 How to reach me: ![https://www.linkedin.com/in/danil-zhuravlov-a36a632a4/][LinkedIn]
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danil-zhuravlov-a36a632a4/)
 
 
 <!--
