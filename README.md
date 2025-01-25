@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Danil!
-
-👨‍💻 I’m a Junior Data Scientist with a passion for storytelling. <br/><br>📚 I'm a non-fiction reader, which has boosted my domain knowledge of business a lot. <br/><br>🤖 I love automating tasks using agents, multi-agent systems, AI, and Python scripts. 
-
+👨‍💻 I design solutions that make peace with the problems you’re ready to declare war on. <br> I use different technologies to make your business decisions easier and more accurate.<br/>
+<br>🤖 My solutions help you break through the wall
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danil-zhuravlov)
 
