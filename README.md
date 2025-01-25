@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Danil!
-👨‍💻 I design solutions that make peace with the problems you’re ready to declare war on. <br> I use different technologies to make your business decisions easier and more accurate.<br/>
-<br>🤖 My solutions help you break through the wall
+# 👋 Hi, I'm Danil Zhuravlov, Data Scientist!
+👨‍💻 I design solutions that make peace with the problems you’re ready to declare war on...
+
+... and I’ll unlock growth opportunities you didn’t even know existed.
+
+I know how hard it is to build a business alone, almost all my relatives were small business owners in Ukraine and suffered from a lot of problems that had to be solved in time, so they kept on working even after returning home. That's why I use all my programming, business analytics and marketing skills to help you move your business forward...
+
+... Together.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danil-zhuravlov)
 
