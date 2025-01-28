@@ -5,7 +5,7 @@
 
 I know how hard it is to build a business alone, almost all my relatives were small business owners in Ukraine and suffered from a lot of problems that had to be solved in time, so they kept on working even after returning home. That's why I use all my programming, business analytics and marketing skills to help you move your business forward...
 
-... Together.
+... Together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danil-zhuravlov)
